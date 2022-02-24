@@ -16,6 +16,6 @@ This is good news for prospective ice cream and surf businesses.
 
 ## Summary
 
-This analysis is successful in ruling out temperature as a deterrent from year-round surf and ice cream busunesses.  
+This analysis is successful in ruling out temperature as a deterrent from year-round surf and ice cream businesses.  
 **There may be other factors that need to be ruled out for a more complete analysis**  
 These may incluse seasonal precipitation, tide activity, local regulations, etc.
