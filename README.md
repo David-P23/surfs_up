@@ -9,9 +9,12 @@ Data : [hawaii.sqlite](https://github.com/David-P23/surfs_up/blob/master/OneDriv
 
 ## Results
 
+The June and December temperatures are surprisingly similar and tolerable despite being in opposite seasons.  
+This is good news for prospective ice cream and surf businesses.
+
 ![June Temps](https://user-images.githubusercontent.com/91306342/155452074-9c5d5cd1-9db0-4ca9-8108-ac18a9aa4eee.PNG) ![December Temps](https://user-images.githubusercontent.com/91306342/155452090-765b2218-25ce-4aa9-9244-ebac68c527be.PNG)
 
-## Summarry
+## Summary
 
 This analysis is successful in ruling out temperature as a deterrent from year-round surf and ice cream busunesses.  
 *** There may be other factors that need to be ruled out for a more complete analysis ***
